@@ -1,27 +1,27 @@
 kanton,code,beteiligung,datum,name,ja,passed
-Zürich,CH.ZH,55.6,18.05.2014,Medizinische Grundversorgung,86.8,true,
-Bern,CH.BE,53.4,18.05.2014,Medizinische Grundversorgung,89.5,true,
-Luzern,CH.LU,57.5,18.05.2014,Medizinische Grundversorgung,88.6,true,
-Uri,CH.UR,49.9,18.05.2014,Medizinische Grundversorgung,86.3,true,
-Schwyz,CH.SZ,58.5,18.05.2014,Medizinische Grundversorgung,81,true,
-Obwalden,CH.OW,60.3,18.05.2014,Medizinische Grundversorgung,82.8,true,
-Nidwalden,CH.NW,62.3,18.05.2014,Medizinische Grundversorgung,83.2,true,
-Glarus,CH.GL,50.6,18.05.2014,Medizinische Grundversorgung,88.7,true,
-Zug,CH.ZG,62.4,18.05.2014,Medizinische Grundversorgung,86.5,true,
-Fribourg,CH.FR,56.8,18.05.2014,Medizinische Grundversorgung,90.8,true,
-Solothurn,CH.SO,53.6,18.05.2014,Medizinische Grundversorgung,88.2,true,
-Basel-Stadt,CH.BS,57.4,18.05.2014,Medizinische Grundversorgung,89,true,
-Basel-Landschaft,CH.BL,54.5,18.05.2014,Medizinische Grundversorgung,88.7,true,
-Schaffhausen,CH.SH,70.5,18.05.2014,Medizinische Grundversorgung,87.2,true,
-Appenzell Ausserrhoden,CH.AR,55.9,18.05.2014,Medizinische Grundversorgung,82.1,true,
-Appenzell Innerrhoden,CH.AI,50.9,18.05.2014,Medizinische Grundversorgung,82.1,true,
-St. Gallen,CH.SG,53.3,18.05.2014,Medizinische Grundversorgung,85.1,true,
-Graubünden,CH.GR,52.9,18.05.2014,Medizinische Grundversorgung,89.1,true,
-Aargau,CH.AG,55.3,18.05.2014,Medizinische Grundversorgung,87.4,true,
-Thurgau,CH.TG,53.8,18.05.2014,Medizinische Grundversorgung,84.7,true,
-Ticino,CH.TI,55.6,18.05.2014,Medizinische Grundversorgung,87.7,true,
-Vaud,CH.VD,57.9,18.05.2014,Medizinische Grundversorgung,91.3,true,
-Valais,CH.VS,61.1,18.05.2014,Medizinische Grundversorgung,84.2,true,
-Neuchâtel,CH.NE,56.3,18.05.2014,Medizinische Grundversorgung,93.7,true,
-Genève,CH.GE,57.1,18.05.2014,Medizinische Grundversorgung,92.8,true,
-Jura,CH.JU,52.7,18.05.2014,Medizinische Grundversorgung,90.7,true,
+Zürich,CH.ZH,55.6,18.05.2014,Medizinische Grundversorgung,86.8,true
+Bern,CH.BE,53.4,18.05.2014,Medizinische Grundversorgung,89.5,true
+Luzern,CH.LU,57.5,18.05.2014,Medizinische Grundversorgung,88.6,true
+Uri,CH.UR,49.9,18.05.2014,Medizinische Grundversorgung,86.3,true
+Schwyz,CH.SZ,58.5,18.05.2014,Medizinische Grundversorgung,81,true
+Obwalden,CH.OW,60.3,18.05.2014,Medizinische Grundversorgung,82.8,true
+Nidwalden,CH.NW,62.3,18.05.2014,Medizinische Grundversorgung,83.2,true
+Glarus,CH.GL,50.6,18.05.2014,Medizinische Grundversorgung,88.7,true
+Zug,CH.ZG,62.4,18.05.2014,Medizinische Grundversorgung,86.5,true
+Fribourg,CH.FR,56.8,18.05.2014,Medizinische Grundversorgung,90.8,true
+Solothurn,CH.SO,53.6,18.05.2014,Medizinische Grundversorgung,88.2,true
+Basel-Stadt,CH.BS,57.4,18.05.2014,Medizinische Grundversorgung,89,true
+Basel-Landschaft,CH.BL,54.5,18.05.2014,Medizinische Grundversorgung,88.7,true
+Schaffhausen,CH.SH,70.5,18.05.2014,Medizinische Grundversorgung,87.2,true
+Appenzell Ausserrhoden,CH.AR,55.9,18.05.2014,Medizinische Grundversorgung,82.1,true
+Appenzell Innerrhoden,CH.AI,50.9,18.05.2014,Medizinische Grundversorgung,82.1,true
+St. Gallen,CH.SG,53.3,18.05.2014,Medizinische Grundversorgung,85.1,true
+Graubünden,CH.GR,52.9,18.05.2014,Medizinische Grundversorgung,89.1,true
+Aargau,CH.AG,55.3,18.05.2014,Medizinische Grundversorgung,87.4,true
+Thurgau,CH.TG,53.8,18.05.2014,Medizinische Grundversorgung,84.7,true
+Ticino,CH.TI,55.6,18.05.2014,Medizinische Grundversorgung,87.7,true
+Vaud,CH.VD,57.9,18.05.2014,Medizinische Grundversorgung,91.3,true
+Valais,CH.VS,61.1,18.05.2014,Medizinische Grundversorgung,84.2,true
+Neuchâtel,CH.NE,56.3,18.05.2014,Medizinische Grundversorgung,93.7,true
+Genève,CH.GE,57.1,18.05.2014,Medizinische Grundversorgung,92.8,true
+Jura,CH.JU,52.7,18.05.2014,Medizinische Grundversorgung,90.7,true

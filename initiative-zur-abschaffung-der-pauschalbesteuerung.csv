@@ -1,27 +1,27 @@
 kanton,code,beteiligung,datum,name,ja,passed
-Zürich,CH.ZH,53.1,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,49.1,false,
-Bern,CH.BE,47.7,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,43.9,false,
-Luzern,CH.LU,49.9,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,42.9,false,
-Uri,CH.UR,41,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,38.4,false,
-Schwyz,CH.SZ,51.5,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,36,false,
-Obwalden,CH.OW,49.4,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,33.4,false,
-Nidwalden,CH.NW,50.7,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,30.9,false,
-Glarus,CH.GL,40.8,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,41.5,false,
-Zug,CH.ZG,55.8,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,32.6,false,
-Fribourg,CH.FR,47.6,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,36,false,
-Solothurn,CH.SO,47,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,46.2,false,
-Basel-Stadt,CH.BS,54.5,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,45.1,false,
-Basel-Landschaft,CH.BL,50.3,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,46,false,
-Schaffhausen,CH.SH,67.5,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,50.8,true,
-Appenzell Ausserrhoden,CH.AR,51.4,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,48,false,
-Appenzell Innerrhoden,CH.AI,45,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,35.3,false,
-St. Gallen,CH.SG,48.8,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,44.5,false,
-Graubünden,CH.GR,46.4,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,28.8,false,
-Aargau,CH.AG,49.2,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,43.4,false,
-Thurgau,CH.TG,46.9,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,44.3,false,
-Ticino,CH.TI,45.2,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,32,false,
-Vaud,CH.VD,51.9,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,31.4,false,
-Valais,CH.VS,53,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,21.7,false,
-Neuchâtel,CH.NE,43.9,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,39.5,false,
-Genève,CH.GE,51.1,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,31.7,false,
-Jura,CH.JU,40.5,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,40.8,false,
+Zürich,CH.ZH,53.1,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,49.1,false
+Bern,CH.BE,47.7,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,43.9,false
+Luzern,CH.LU,49.9,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,42.9,false
+Uri,CH.UR,41,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,38.4,false
+Schwyz,CH.SZ,51.5,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,36,false
+Obwalden,CH.OW,49.4,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,33.4,false
+Nidwalden,CH.NW,50.7,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,30.9,false
+Glarus,CH.GL,40.8,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,41.5,false
+Zug,CH.ZG,55.8,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,32.6,false
+Fribourg,CH.FR,47.6,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,36,false
+Solothurn,CH.SO,47,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,46.2,false
+Basel-Stadt,CH.BS,54.5,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,45.1,false
+Basel-Landschaft,CH.BL,50.3,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,46,false
+Schaffhausen,CH.SH,67.5,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,50.8,true
+Appenzell Ausserrhoden,CH.AR,51.4,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,48,false
+Appenzell Innerrhoden,CH.AI,45,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,35.3,false
+St. Gallen,CH.SG,48.8,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,44.5,false
+Graubünden,CH.GR,46.4,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,28.8,false
+Aargau,CH.AG,49.2,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,43.4,false
+Thurgau,CH.TG,46.9,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,44.3,false
+Ticino,CH.TI,45.2,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,32,false
+Vaud,CH.VD,51.9,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,31.4,false
+Valais,CH.VS,53,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,21.7,false
+Neuchâtel,CH.NE,43.9,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,39.5,false
+Genève,CH.GE,51.1,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,31.7,false
+Jura,CH.JU,40.5,30.11.2014,Initiative zur Abschaffung der Pauschalbesteuerung,40.8,false

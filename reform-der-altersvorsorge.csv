@@ -1,27 +1,27 @@
 kanton,code,beteiligung,datum,name,ja,passed
-Zürich,CH.ZH,48.5,24.09.2017,Reform der Altersvorsorge,50.9,true,
-Bern,CH.BE,45.4,24.09.2017,Reform der Altersvorsorge,50,true,
-Luzern,CH.LU,51.2,24.09.2017,Reform der Altersvorsorge,47.9,false,
-Uri,CH.UR,43.1,24.09.2017,Reform der Altersvorsorge,45.2,false,
-Schwyz,CH.SZ,50.1,24.09.2017,Reform der Altersvorsorge,35.7,false,
-Obwalden,CH.OW,51.3,24.09.2017,Reform der Altersvorsorge,41.7,false,
-Nidwalden,CH.NW,50.8,24.09.2017,Reform der Altersvorsorge,39,false,
-Glarus,CH.GL,41.5,24.09.2017,Reform der Altersvorsorge,37,false,
-Zug,CH.ZG,53.3,24.09.2017,Reform der Altersvorsorge,42.3,false,
-Fribourg,CH.FR,45.2,24.09.2017,Reform der Altersvorsorge,54.1,true,
-Solothurn,CH.SO,46.8,24.09.2017,Reform der Altersvorsorge,42.5,false,
-Basel-Stadt,CH.BS,50.3,24.09.2017,Reform der Altersvorsorge,55,true,
-Basel-Landschaft,CH.BL,48.3,24.09.2017,Reform der Altersvorsorge,45.9,false,
-Schaffhausen,CH.SH,66.7,24.09.2017,Reform der Altersvorsorge,44,false,
-Appenzell Ausserrhoden,CH.AR,50.2,24.09.2017,Reform der Altersvorsorge,39.5,false,
-Appenzell Innerrhoden,CH.AI,42.8,24.09.2017,Reform der Altersvorsorge,36.7,false,
-St. Gallen,CH.SG,47.1,24.09.2017,Reform der Altersvorsorge,40.8,false,
-Graubünden,CH.GR,44.2,24.09.2017,Reform der Altersvorsorge,45.8,false,
-Aargau,CH.AG,48.6,24.09.2017,Reform der Altersvorsorge,43,false,
-Thurgau,CH.TG,45.9,24.09.2017,Reform der Altersvorsorge,40.1,false,
-Ticino,CH.TI,45,24.09.2017,Reform der Altersvorsorge,53.9,true,
-Vaud,CH.VD,45.8,24.09.2017,Reform der Altersvorsorge,49.1,false,
-Valais,CH.VS,47.4,24.09.2017,Reform der Altersvorsorge,50.4,true,
-Neuchâtel,CH.NE,46,24.09.2017,Reform der Altersvorsorge,51.8,true,
-Genève,CH.GE,45.9,24.09.2017,Reform der Altersvorsorge,39.7,false,
-Jura,CH.JU,43.1,24.09.2017,Reform der Altersvorsorge,56.8,true,
+Zürich,CH.ZH,48.5,24.09.2017,Reform der Altersvorsorge,50.9,true
+Bern,CH.BE,45.4,24.09.2017,Reform der Altersvorsorge,50,true
+Luzern,CH.LU,51.2,24.09.2017,Reform der Altersvorsorge,47.9,false
+Uri,CH.UR,43.1,24.09.2017,Reform der Altersvorsorge,45.2,false
+Schwyz,CH.SZ,50.1,24.09.2017,Reform der Altersvorsorge,35.7,false
+Obwalden,CH.OW,51.3,24.09.2017,Reform der Altersvorsorge,41.7,false
+Nidwalden,CH.NW,50.8,24.09.2017,Reform der Altersvorsorge,39,false
+Glarus,CH.GL,41.5,24.09.2017,Reform der Altersvorsorge,37,false
+Zug,CH.ZG,53.3,24.09.2017,Reform der Altersvorsorge,42.3,false
+Fribourg,CH.FR,45.2,24.09.2017,Reform der Altersvorsorge,54.1,true
+Solothurn,CH.SO,46.8,24.09.2017,Reform der Altersvorsorge,42.5,false
+Basel-Stadt,CH.BS,50.3,24.09.2017,Reform der Altersvorsorge,55,true
+Basel-Landschaft,CH.BL,48.3,24.09.2017,Reform der Altersvorsorge,45.9,false
+Schaffhausen,CH.SH,66.7,24.09.2017,Reform der Altersvorsorge,44,false
+Appenzell Ausserrhoden,CH.AR,50.2,24.09.2017,Reform der Altersvorsorge,39.5,false
+Appenzell Innerrhoden,CH.AI,42.8,24.09.2017,Reform der Altersvorsorge,36.7,false
+St. Gallen,CH.SG,47.1,24.09.2017,Reform der Altersvorsorge,40.8,false
+Graubünden,CH.GR,44.2,24.09.2017,Reform der Altersvorsorge,45.8,false
+Aargau,CH.AG,48.6,24.09.2017,Reform der Altersvorsorge,43,false
+Thurgau,CH.TG,45.9,24.09.2017,Reform der Altersvorsorge,40.1,false
+Ticino,CH.TI,45,24.09.2017,Reform der Altersvorsorge,53.9,true
+Vaud,CH.VD,45.8,24.09.2017,Reform der Altersvorsorge,49.1,false
+Valais,CH.VS,47.4,24.09.2017,Reform der Altersvorsorge,50.4,true
+Neuchâtel,CH.NE,46,24.09.2017,Reform der Altersvorsorge,51.8,true
+Genève,CH.GE,45.9,24.09.2017,Reform der Altersvorsorge,39.7,false
+Jura,CH.JU,43.1,24.09.2017,Reform der Altersvorsorge,56.8,true

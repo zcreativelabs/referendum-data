@@ -1,27 +1,27 @@
 kanton,code,beteiligung,datum,name,ja,passed
-Zürich,CH.ZH,48.9,13.02.2011,Waffeninitiative,50.4,true,
-Bern,CH.BE,52.9,13.02.2011,Waffeninitiative,40.7,false,
-Luzern,CH.LU,50.2,13.02.2011,Waffeninitiative,40.1,false,
-Uri,CH.UR,43.6,13.02.2011,Waffeninitiative,29.4,false,
-Schwyz,CH.SZ,51.3,13.02.2011,Waffeninitiative,29.1,false,
-Obwalden,CH.OW,53.9,13.02.2011,Waffeninitiative,28.1,false,
-Nidwalden,CH.NW,52.6,13.02.2011,Waffeninitiative,31.2,false,
-Glarus,CH.GL,41.7,13.02.2011,Waffeninitiative,30.2,false,
-Zug,CH.ZG,53.6,13.02.2011,Waffeninitiative,42.8,false,
-Fribourg,CH.FR,46.6,13.02.2011,Waffeninitiative,41.1,false,
-Solothurn,CH.SO,48.8,13.02.2011,Waffeninitiative,35,false,
-Basel-Stadt,CH.BS,49,13.02.2011,Waffeninitiative,58.9,true,
-Basel-Landschaft,CH.BL,49.8,13.02.2011,Waffeninitiative,45.2,false,
-Schaffhausen,CH.SH,64.7,13.02.2011,Waffeninitiative,39,false,
-Appenzell Ausserrhoden,CH.AR,51.7,13.02.2011,Waffeninitiative,37.8,false,
-Appenzell Innerrhoden,CH.AI,44.4,13.02.2011,Waffeninitiative,27.7,false,
-St. Gallen,CH.SG,47.8,13.02.2011,Waffeninitiative,39.2,false,
-Graubünden,CH.GR,44.1,13.02.2011,Waffeninitiative,34.4,false,
-Aargau,CH.AG,46.4,13.02.2011,Waffeninitiative,38.6,false,
-Thurgau,CH.TG,49.7,13.02.2011,Waffeninitiative,34.5,false,
-Ticino,CH.TI,44,13.02.2011,Waffeninitiative,36.4,false,
-Vaud,CH.VD,49.4,13.02.2011,Waffeninitiative,53.7,true,
-Valais,CH.VS,50.8,13.02.2011,Waffeninitiative,38.1,false,
-Neuchâtel,CH.NE,47,13.02.2011,Waffeninitiative,53.2,true,
-Genève,CH.GE,47.8,13.02.2011,Waffeninitiative,61,true,
-Jura,CH.JU,39.3,13.02.2011,Waffeninitiative,52,true,
+Zürich,CH.ZH,48.9,13.02.2011,Waffeninitiative,50.4,true
+Bern,CH.BE,52.9,13.02.2011,Waffeninitiative,40.7,false
+Luzern,CH.LU,50.2,13.02.2011,Waffeninitiative,40.1,false
+Uri,CH.UR,43.6,13.02.2011,Waffeninitiative,29.4,false
+Schwyz,CH.SZ,51.3,13.02.2011,Waffeninitiative,29.1,false
+Obwalden,CH.OW,53.9,13.02.2011,Waffeninitiative,28.1,false
+Nidwalden,CH.NW,52.6,13.02.2011,Waffeninitiative,31.2,false
+Glarus,CH.GL,41.7,13.02.2011,Waffeninitiative,30.2,false
+Zug,CH.ZG,53.6,13.02.2011,Waffeninitiative,42.8,false
+Fribourg,CH.FR,46.6,13.02.2011,Waffeninitiative,41.1,false
+Solothurn,CH.SO,48.8,13.02.2011,Waffeninitiative,35,false
+Basel-Stadt,CH.BS,49,13.02.2011,Waffeninitiative,58.9,true
+Basel-Landschaft,CH.BL,49.8,13.02.2011,Waffeninitiative,45.2,false
+Schaffhausen,CH.SH,64.7,13.02.2011,Waffeninitiative,39,false
+Appenzell Ausserrhoden,CH.AR,51.7,13.02.2011,Waffeninitiative,37.8,false
+Appenzell Innerrhoden,CH.AI,44.4,13.02.2011,Waffeninitiative,27.7,false
+St. Gallen,CH.SG,47.8,13.02.2011,Waffeninitiative,39.2,false
+Graubünden,CH.GR,44.1,13.02.2011,Waffeninitiative,34.4,false
+Aargau,CH.AG,46.4,13.02.2011,Waffeninitiative,38.6,false
+Thurgau,CH.TG,49.7,13.02.2011,Waffeninitiative,34.5,false
+Ticino,CH.TI,44,13.02.2011,Waffeninitiative,36.4,false
+Vaud,CH.VD,49.4,13.02.2011,Waffeninitiative,53.7,true
+Valais,CH.VS,50.8,13.02.2011,Waffeninitiative,38.1,false
+Neuchâtel,CH.NE,47,13.02.2011,Waffeninitiative,53.2,true
+Genève,CH.GE,47.8,13.02.2011,Waffeninitiative,61,true
+Jura,CH.JU,39.3,13.02.2011,Waffeninitiative,52,true

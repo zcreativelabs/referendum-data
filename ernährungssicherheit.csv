@@ -1,27 +1,27 @@
 kanton,code,beteiligung,datum,name,ja,passed
-Zürich,CH.ZH,47.9,24.09.2017,Ernährungssicherheit,77.3,true,
-Bern,CH.BE,45.4,24.09.2017,Ernährungssicherheit,76,true,
-Luzern,CH.LU,50.8,24.09.2017,Ernährungssicherheit,75.9,true,
-Uri,CH.UR,42.6,24.09.2017,Ernährungssicherheit,74.9,true,
-Schwyz,CH.SZ,49.8,24.09.2017,Ernährungssicherheit,69.1,true,
-Obwalden,CH.OW,51.1,24.09.2017,Ernährungssicherheit,74.6,true,
-Nidwalden,CH.NW,50.3,24.09.2017,Ernährungssicherheit,75.6,true,
-Glarus,CH.GL,41.2,24.09.2017,Ernährungssicherheit,69.3,true,
-Zug,CH.ZG,52.7,24.09.2017,Ernährungssicherheit,73.8,true,
-Fribourg,CH.FR,45.2,24.09.2017,Ernährungssicherheit,85.2,true,
-Solothurn,CH.SO,46.2,24.09.2017,Ernährungssicherheit,73.5,true,
-Basel-Stadt,CH.BS,50.3,24.09.2017,Ernährungssicherheit,77.4,true,
-Basel-Landschaft,CH.BL,47.8,24.09.2017,Ernährungssicherheit,77.2,true,
-Schaffhausen,CH.SH,66.5,24.09.2017,Ernährungssicherheit,72.4,true,
-Appenzell Ausserrhoden,CH.AR,49.7,24.09.2017,Ernährungssicherheit,70.4,true,
-Appenzell Innerrhoden,CH.AI,42.6,24.09.2017,Ernährungssicherheit,74.5,true,
-St. Gallen,CH.SG,46.7,24.09.2017,Ernährungssicherheit,72.1,true,
-Graubünden,CH.GR,43.5,24.09.2017,Ernährungssicherheit,74.5,true,
-Aargau,CH.AG,48.1,24.09.2017,Ernährungssicherheit,74.5,true,
-Thurgau,CH.TG,45.6,24.09.2017,Ernährungssicherheit,71.4,true,
-Ticino,CH.TI,45,24.09.2017,Ernährungssicherheit,87.7,true,
-Vaud,CH.VD,45.8,24.09.2017,Ernährungssicherheit,92,true,
-Valais,CH.VS,47.3,24.09.2017,Ernährungssicherheit,84.3,true,
-Neuchâtel,CH.NE,45.9,24.09.2017,Ernährungssicherheit,88.1,true,
-Genève,CH.GE,45.9,24.09.2017,Ernährungssicherheit,88.3,true,
-Jura,CH.JU,43.1,24.09.2017,Ernährungssicherheit,89.8,true,
+Zürich,CH.ZH,47.9,24.09.2017,Ernährungssicherheit,77.3,true
+Bern,CH.BE,45.4,24.09.2017,Ernährungssicherheit,76,true
+Luzern,CH.LU,50.8,24.09.2017,Ernährungssicherheit,75.9,true
+Uri,CH.UR,42.6,24.09.2017,Ernährungssicherheit,74.9,true
+Schwyz,CH.SZ,49.8,24.09.2017,Ernährungssicherheit,69.1,true
+Obwalden,CH.OW,51.1,24.09.2017,Ernährungssicherheit,74.6,true
+Nidwalden,CH.NW,50.3,24.09.2017,Ernährungssicherheit,75.6,true
+Glarus,CH.GL,41.2,24.09.2017,Ernährungssicherheit,69.3,true
+Zug,CH.ZG,52.7,24.09.2017,Ernährungssicherheit,73.8,true
+Fribourg,CH.FR,45.2,24.09.2017,Ernährungssicherheit,85.2,true
+Solothurn,CH.SO,46.2,24.09.2017,Ernährungssicherheit,73.5,true
+Basel-Stadt,CH.BS,50.3,24.09.2017,Ernährungssicherheit,77.4,true
+Basel-Landschaft,CH.BL,47.8,24.09.2017,Ernährungssicherheit,77.2,true
+Schaffhausen,CH.SH,66.5,24.09.2017,Ernährungssicherheit,72.4,true
+Appenzell Ausserrhoden,CH.AR,49.7,24.09.2017,Ernährungssicherheit,70.4,true
+Appenzell Innerrhoden,CH.AI,42.6,24.09.2017,Ernährungssicherheit,74.5,true
+St. Gallen,CH.SG,46.7,24.09.2017,Ernährungssicherheit,72.1,true
+Graubünden,CH.GR,43.5,24.09.2017,Ernährungssicherheit,74.5,true
+Aargau,CH.AG,48.1,24.09.2017,Ernährungssicherheit,74.5,true
+Thurgau,CH.TG,45.6,24.09.2017,Ernährungssicherheit,71.4,true
+Ticino,CH.TI,45,24.09.2017,Ernährungssicherheit,87.7,true
+Vaud,CH.VD,45.8,24.09.2017,Ernährungssicherheit,92,true
+Valais,CH.VS,47.3,24.09.2017,Ernährungssicherheit,84.3,true
+Neuchâtel,CH.NE,45.9,24.09.2017,Ernährungssicherheit,88.1,true
+Genève,CH.GE,45.9,24.09.2017,Ernährungssicherheit,88.3,true
+Jura,CH.JU,43.1,24.09.2017,Ernährungssicherheit,89.8,true
